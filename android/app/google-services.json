@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3002008708",
+    "project_id": "fir-demoflut",
+    "storage_bucket": "fir-demoflut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3002008708:android:a4a5d5e1d55822d7baeed1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_anonymousflut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOSGmllv5h0R5OKyh3J9yfN6u4sqBHNEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
