@@ -16,14 +16,14 @@ class LoginPage extends StatelessWidget {
           children: [
             Container(
               width: 300,
-              height: 50,
+              height: 100,
               child: TextField(
                 controller: emailController,
               ),
             ),
             Container(
               width: 300,
-              height: 50,
+              height: 100,
               child: TextField(
                 controller: passwordController,
               ),
